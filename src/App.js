@@ -1,25 +1,30 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import stocks from './stocks.json';
+import AutoComplete from './autocomplete';
 import './App.css';
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      data: [],
+      value: '',
+    };
+  }
+
   render() {
+    const suggestions = []
+    stocks.market.company.map((j) => (j.stock.map((g) => (suggestions.push(g.name)))))
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <header>
+          <div className="bgBack">
+            <div className="logo">stocks.</div>
+            <AutoComplete
+              suggestions={suggestions}
+            />
+          </div>
+          </header>
       </div>
     );
   }

@@ -1,0 +1,150 @@
+{
+    "market": {
+        "company": [
+            {
+                "name": "Petrobras",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Petrobras_horizontal_logo_%28international%29.svg/462px-Petrobras_horizontal_logo_%28international%29.svg.png",
+                "stock": [
+                    {
+                        "name": "PETR4",
+                        "openingvalue": "22.45",
+                        "actualvalue": "22.54"
+                    },
+                    {
+                        "name": "PETR3",
+                        "openingvalue": "28.10",
+                        "actualvalue": "28.05"
+                    }
+                ]
+            },
+            {
+                "name": "VALE",
+                "logo": "https://logodownload.org/wp-content/uploads/2014/05/vale-logo-1.png",
+                "stock": [
+                    {
+                        "name": "VALE4",
+                        "openingvalue": "17.65",
+                        "actualvalue": "17.32"
+                    },
+                    {
+                        "name": "VALE3",
+                        "openingvalue": "21.11",
+                        "actualvalue": "21.32"
+                    }
+                ]
+            },
+            {
+                "name": "ITAU",
+                "logo": "https://s29.postimg.org/jul61dxk7/itau.png",
+                "stock": [
+                    {
+                        "name": "ITUB4",
+                        "openingvalue": "8.7",
+                        "actualvalue": "8.89"
+                    },
+                    {
+                        "name": "ITUB3",
+                        "openingvalue": "12.73",
+                        "actualvalue": "12.91"
+                    }
+                ]
+            },
+            {
+                "name": "BRADESCO",
+                "logo": "https://s29.postimg.org/58u5d50rr/bradesco.png",
+                "stock": [
+                    {
+                        "name": "BBDC4",
+                        "openingvalue": "6.29",
+                        "actualvalue": "6.08"
+                    },
+                    {
+                        "name": "BBDC3",
+                        "openingvalue": "8.37",
+                        "actualvalue": "8.42"
+                    }
+                ]
+            },
+            {
+                "name": "AMBEV",
+                "logo": "https://s29.postimg.org/tmsfkrxuv/ambev.png",
+                "stock": [
+                    {
+                        "name": "ABEV4",
+                        "openingvalue": "7.65",
+                        "actualvalue": "7.43"
+                    },
+                    {
+                        "name": "ABEV3",
+                        "openingvalue": "9.78",
+                        "actualvalue": "10.02"
+                    }
+                ]
+            },
+            {
+                "name": "OI",
+                "logo": "https://s29.postimg.org/ejbbdsht3/oi.png",
+                "stock": [
+                    {
+                        "name": "OIBR4",
+                        "openingvalue": "3.94",
+                        "actualvalue": "3.67"
+                    },
+                    {
+                        "name": "OIBR3",
+                        "openingvalue": "5.09",
+                        "actualvalue": "5.01"
+                    }
+                ]
+            },
+            {
+                "name": "GOL",
+                "logo": "https://s29.postimg.org/8478k04rr/gol.png",
+                "stock": [
+                    {
+                        "name": "GOLL4",
+                        "openingvalue": "11.26",
+                        "actualvalue": "11.07"
+                    },
+                    {
+                        "name": "GOLL3",
+                        "openingvalue": "16.70",
+                        "actualvalue": "16.93"
+                    }
+                ]
+            },
+            {
+                "name": "AMERICANAS",
+                "logo": "https://s29.postimg.org/69ue29hrb/americanas.png",
+                "stock": [
+                    {
+                        "name": "LAME4",
+                        "openingvalue": "1.85",
+                        "actualvalue": "1.88"
+                    },
+                    {
+                        "name": "LAME3",
+                        "openingvalue": "2.57",
+                        "actualvalue": "2.59"
+                    }
+                ]
+            },
+            {
+                "name": "SMILES",
+                "logo": "https://s29.postimg.org/hfyce2nmv/smiles.png",
+                "stock": [
+                    {
+                        "name": "SMLE4",
+                        "openingvalue": "15.33",
+                        "actualvalue": "15.12"
+                    },
+                    {
+                        "name": "SMLE3",
+                        "openingvalue": "18.64",
+                        "actualvalue": "18.78"
+                    }
+                ]
+            }
+        ]
+}
+}
